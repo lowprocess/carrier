@@ -1,0 +1,5 @@
+09-29 15:28:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 473:Plugin executed on: 'linux'
+09-29 15:28:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 474:Plugin executed with python version: '3.14.7 (main, Aug 10 2026, 00:00:00) [GCC 16.1.1 20260515 (Red Hat 16.1.1-2)]'
+09-29 15:28:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:KiCad build version: 10.0.5-1.fc44
+09-29 15:28:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 476:Plugin version: 5.0.1
+09-29 15:28:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 477:Frame repr: <wx._core.Frame object at 0x7f3e69e6e600>
